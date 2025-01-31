@@ -1,0 +1,1 @@
+This repository demonstrates a common HTML error: an unclosed paragraph tag and a missing alt attribute in an image tag. The bug.html file contains the incorrect code, while bugSolution.html provides the corrected version.  Properly closing tags and including alt attributes are crucial for HTML validity and accessibility.
